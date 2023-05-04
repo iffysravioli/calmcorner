@@ -28,3 +28,5 @@ def main():
             break 
         else:
             print("Please select only one number. 1, 2, or 3")
+if __name__ == "__main__":
+    main()
